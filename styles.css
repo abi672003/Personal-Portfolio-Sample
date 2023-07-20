@@ -1,0 +1,66 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    background-color: rgb(58, 107, 144);
+    padding:12px 14px;
+    color: aliceblue;
+}
+.navbar a{
+    margin-right: 4px;
+}
+.navbar a:hover{
+    background-color: rgb(191, 216, 236);
+    padding: 12px 14px;
+}
+.about{
+    margin-top: 50px;
+}
+.about .content{
+    display: flex;
+}
+.about h1{
+    text-align: center;
+}
+.about img{
+    height: 350px;
+    max-width: 252px;
+    margin-left: 30px;
+    margin-top: 28px;
+}
+.about p{
+    margin-left: 35px;
+    font-size: 18px;
+    
+    
+}
+.about button{
+    margin-left: 35px;
+    color: #FFFFFF;
+    background-color: rgb(127, 178, 255);
+
+}
+/*.service h1{
+    text-align: center;
+}*/
+/*.card{
+    padding: 30px 50px;
+    border: solid rgb(75, 70, 70);
+    color: #FFFFFF;
+    background-color: rgb(58, 107, 144);
+    margin: 30px;
+}*/
+
+.project h1{
+    text-align: center;
+}
+.contact h1{
+    text-align: center;
+}
+.input{
+    margin: 0px 550px;
+    padding: 2px;
+    margin-bottom: 5px;
+}
